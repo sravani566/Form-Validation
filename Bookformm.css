@@ -1,0 +1,22 @@
+body{
+    background-color:"white";
+    color:blue;
+
+}
+header{
+    color:red;
+}
+table{
+    background-color:lightcyan;
+    padding: 40px;
+}
+.resetButton{
+    margin-left: 62%;
+    color:green;
+    background-color:lightgrey;
+}
+#submitId{
+    margin-left: 60%;
+    color:violet;
+    background-color:rgb(255, 244, 224);
+}
